@@ -10,7 +10,7 @@ import userLogo from "./assets/user-logo.png";
 import gptImgLogo from "./assets/chatgptLogo.svg";
 import { useState } from "react";
 import Hero from "./components/Hero";
-
+ 
 function App() {
   const [dark, setDark] = useState("Switch light mode");
   
